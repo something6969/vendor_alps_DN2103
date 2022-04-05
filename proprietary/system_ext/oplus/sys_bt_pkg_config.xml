@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="share_package_name">com.oplus.oshare</string>
+  <string name="pods_package_name">com.oneplus.twspods</string>
+  <string name="pods_weakcheck_url">com.oneplus.twspods.providers.OnePlusPodsProvider</string>
+</resources>

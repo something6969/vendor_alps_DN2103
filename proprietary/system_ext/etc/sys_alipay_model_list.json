@@ -1,0 +1,72 @@
+{
+  "comment": "alipay_support",
+  "version": 20200828,
+  "public": [
+    {
+      "ifaaModel": "ONEPLUS-DN2100",
+      "oppoModel": [
+        "DN2100",
+        "DN2101",
+        "DN2103"
+      ],
+      "bioType": [
+        "optical_fingerprint"
+      ],
+      "ifaaVersion": "4"
+    },
+    {
+      "ifaaModel": "ONEPLUS-LE2110",
+      "oppoModel": [
+        "LE2110",
+        "LE2111",
+        "LE2113",
+        "LE2115",
+        "LE2117",
+        "LE2119",
+        "LE2120",
+        "LE2121",
+        "LE2123",
+        "LE2125",
+        "LE2127"
+      ],
+      "bioType": [
+        "optical_fingerprint"
+      ],
+      "ifaaVersion": "4"
+    }
+  ],
+  "confidential": [
+    {
+      "ifaaModel": "ONEPLUS-DN2100",
+      "oppoModel": [
+        "DN2100",
+        "DN2101",
+        "DN2103"
+      ],
+      "bioType": [
+        "optical_fingerprint"
+      ],
+      "ifaaVersion": "4"
+    },
+    {
+      "ifaaModel": "ONEPLUS-LE2110",
+      "oppoModel": [
+        "LE2110",
+        "LE2111",
+        "LE2113",
+        "LE2115",
+        "LE2117",
+        "LE2119",
+        "LE2120",
+        "LE2121",
+        "LE2123",
+        "LE2125",
+        "LE2127"
+      ],
+      "bioType": [
+        "optical_fingerprint"
+      ],
+      "ifaaVersion": "4"
+    }
+  ]
+}
